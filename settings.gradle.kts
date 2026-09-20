@@ -1,0 +1,1 @@
+rootProject.name = "Laboratory_work_1_variant_2"
